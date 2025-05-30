@@ -36,8 +36,8 @@ gen_project_1/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd gen_project_1
+git clone https://github.com/kaushikandinakaran/News_Research_Tool.git
+cd News_Research_Tool
 ```
 
 ### 2. Set Up a Virtual Environment
